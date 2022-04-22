@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_misc_cookies",
+  "info": {
+    "displayName": "cookie",
+    "icon": "barcode"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "moreInformation": {
+      "type": "richtext"
+    },
+    "moreBtn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "misc.action-btn"
+    },
+    "cancelBtn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "misc.action-btn"
+    },
+    "submitBtn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "misc.action-btn"
+    }
+  }
+}

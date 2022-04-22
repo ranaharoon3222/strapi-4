@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_misc_lang_texts",
+  "info": {
+    "displayName": "langText",
+    "icon": "band-aid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "theme_change_dark": {
+      "type": "string"
+    },
+    "theme_change_light": {
+      "type": "string"
+    }
+  }
+}

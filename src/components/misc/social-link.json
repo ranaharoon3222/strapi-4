@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_misc_social_links",
+  "info": {
+    "displayName": "socialLink",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "cssClass": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_wrapper_modal_link_items",
+  "info": {
+    "displayName": "modalLinkItems",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "misc.modal-btn"
+    }
+  }
+}

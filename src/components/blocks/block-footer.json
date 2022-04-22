@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_block_footers",
+  "info": {
+    "displayName": "blockFooter",
+    "icon": "border-style",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "copyright": {
+      "type": "string"
+    }
+  }
+}

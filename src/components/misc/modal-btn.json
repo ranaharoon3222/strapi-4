@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_misc_modal_btns",
+  "info": {
+    "displayName": "modalBtn",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "cssClass": {
+      "type": "string"
+    }
+  }
+}

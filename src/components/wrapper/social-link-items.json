@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_wrapper_social_link_items",
+  "info": {
+    "displayName": "socialLinkItems",
+    "icon": "calendar-week"
+  },
+  "options": {},
+  "attributes": {
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "misc.social-link"
+    }
+  }
+}

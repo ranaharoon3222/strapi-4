@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_misc_metas",
+  "info": {
+    "displayName": "meta",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "keywords": {
+      "type": "string"
+    }
+  }
+}
